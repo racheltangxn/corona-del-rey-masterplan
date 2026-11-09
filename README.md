@@ -2,6 +2,12 @@
 
 A Vite + Three.js conceptual presentation of a sparse three-parcel Corona del Rey estate. The default view is a programming-model masterplan; selecting the Anchor Investor Estate opens the preserved high-detail Anchor Estate Core Sample.
 
+## Live demo
+
+[Open the deployed interactive masterplan](https://corona-core-sample.vercel.app/)
+
+Source: [github.com/racheltangxn/corona-del-rey-masterplan](https://github.com/racheltangxn/corona-del-rey-masterplan)
+
 The masterplan is conceptual only. Parcel geometry, routes, water features, access connections, and infrastructure are visual programming abstractions, not cadastral, topographic, engineering, environmental, or permitting data.
 
 ## Run
